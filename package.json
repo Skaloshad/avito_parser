@@ -1,0 +1,27 @@
+{
+  "name": "avito_parser",
+  "version": "0.0.1",
+  "description": "Библиотека для парсинга сайта avito",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skaloshad/avito_parser.git"
+  },
+  "keywords": [
+    "avito",
+    "parser"
+  ],
+  "author": "Danilov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skaloshad/avito_parser/issues"
+  },
+  "homepage": "https://github.com/Skaloshad/avito_parser#readme",
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  }
+}
